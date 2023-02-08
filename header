@@ -2,14 +2,19 @@
 <html>
     <head> 
         <title> First Excercise html </title>
-        <meta
+        <link rel="icon" type="image/x-icon" href="favicon.ico">
+        <meta property="og:title" content="First html excercise" />
+        <meta property="og:type" content="test" />
+        <meta property="og:author" content="Alberto Neira Vazquez" />
+        
 
 
 
 
     </head>
     <body>
-
+        <h1> This is the Header Excercise</h1>
+        <p> to try tags of the header</p>
 
     </body>
 
